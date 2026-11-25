@@ -2,8 +2,8 @@
 
 Python notebook for the Arden University module *COM7021 Data Visualisation*, using the EcoMove City Transport Authority dataset.
 
-- **Author:** [YOUR NAME] | **Student ID:** [YOUR STUDENT ID]
-- **AI-use declaration:** [add the wording required by Arden's AI statement]
+- **Author:** Richid | **Student ID:** 24205517
+
 
 ## Files
 
@@ -16,6 +16,6 @@ The dataset (`_5442__EcoMoveMobilityDV.xlsx`) is university-supplied coursework 
 
 ## How to run
 
-**Google Colab:** upload `EcoMobility_final.ipynb` at colab.research.google.com, choose *Runtime > Run all*, and upload the Excel file when prompted.
+**Google Colab:** upload `EcoMobility_final.ipynb` at colab.research.google.com, choose *Runtime > Run all*, and upload the Excel file when prompted. The EcoMove_analysis.ipnyb too has the open in colab link directly too as well
 
 **Locally:** `pip install -r requirements.txt`, put the Excel file next to the notebook, then open it in Jupyter.
